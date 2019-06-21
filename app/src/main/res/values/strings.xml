@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MW_SeniorProject</string>
+    <string name="button_Start">Start</string>
+    <string name="button_Submit">Submit</string>
+    <string name="button_Back">Back</string>
+    <string name="button_Discard">Discard</string>
+    <string name="pScore">Player Score:</string>
+    <string name="compScore">Computer Score:</string>
+    <string name="button_Test">TestWord</string>
+    <string name="button_YesEnd">Yes</string>
+    <string name="button_NoEnd">No</string>
+    <string name="gameOver">GAME OVER</string>
+    <string name="playAgain">Play Again?</string>
+    <string name="winMessage">Player wins</string>
+    <string name="button_Finish">Finish</string>
+
+</resources>
